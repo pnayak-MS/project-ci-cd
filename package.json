@@ -1,5 +1,5 @@
 {
-    "name": "app-service-hello-world",
+    "name": "project-ci-cd",
     "description": "Simple Hello World Node.js sample for Azure App Service",
     "version": "0.0.1",
     "private": true,
@@ -15,8 +15,6 @@
         "prettier": "^2.0.5"
       },
     "dependencies": {
-        "body-parser": "^1.19.0",
-        "cors": "^2.8.5",
         "express": "^4.17.1"
       },
       "engines": {
