@@ -4,7 +4,7 @@
     "version": "0.0.1",
     "private": true,
     "license": "MIT",
-    "author": "Microsoft",
+    "author": "Prabhanjan Nayak",
     "scripts": {
         "start": "node index.js",
         "lint": "eslint",
